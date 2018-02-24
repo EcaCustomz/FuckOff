@@ -1,0 +1,21 @@
+{
+  "name": "Tutorial-Bot",
+  "version": "1.2.5",
+  "description": "An Idiot's Guide tutorial Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "An Idiot's Guide",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.1",
+    "discord.js": "^11.3.0",
+    "enmap": "^0.4.4",
+    "moment": "^2.20.1",
+    "ms": "^2.1.1",
+    "nodemon": "^1.15.1",
+    "sqlite": "^2.9.1",
+    "cleverbot-node": "^0.3.11"
+  }
+}
